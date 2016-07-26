@@ -1,0 +1,1 @@
+call compile preProcessFile "\sru_pdb\initServer_pdb.sqf";

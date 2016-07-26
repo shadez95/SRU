@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=sru_pdb
+Pbo Type is: Arma Addon
+Sha: '4F65D99131292A4FCCC54C30078E8D6504AD0549'
+//////</HEADER>//////
